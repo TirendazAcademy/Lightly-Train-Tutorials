@@ -5,6 +5,14 @@ It allows you to get started with model training immediately using just a direct
 
 This repo provides guides on how to use **LightlyTrain** effectively.
 
+## 📺 My YouTube Video:
+
+- [Train Your Computer Vision Models in Minutes with LightlyTrain](https://youtu.be/CtvX6yjUA_k)
+
+## ✍️ My Blog Post:
+
+- [LightlyTrain: A New Framework for Computer Vision](https://medium.com/data-science-collective/lightlytrain-a-new-framework-for-computer-vision-1b71d988789b)
+
 ## 🚀 What is LightlyTrain?
 
 LightlyTrain is designed to make **self-supervised learning** easy and accessible. It wraps around powerful computer vision techniques and enables fast training with just a few lines of code.
